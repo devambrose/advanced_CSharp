@@ -8,7 +8,7 @@ namespace Delegates001
 {
     public class Program
     {
-        delegate void LogSimple(string message);// create a delete that has no return type
+        delegate void LogSimple(string message);// create a delegate that has no return type
 
         static void Main(string[] args)
         {
